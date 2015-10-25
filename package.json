@@ -1,0 +1,14 @@
+{
+  "name": "mqtt-command-parser",
+  "description": "This NodeJS application converts MQTT messages after parsing, to a new format",
+  "author": "Dennis de Greef <github@link0.net>",
+  "license": "MIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "mqtt": "1.1.3"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/dennisdegreef/mqtt-command-parser.git"
+  }
+}
